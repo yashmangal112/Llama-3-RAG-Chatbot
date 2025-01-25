@@ -21,7 +21,7 @@ Welcome to the Llama3 Chat with PDF Web App repository! This project showcases a
 1. Clone this repository to your local machine
 
    ```bash
-   git clone https://github.com/Safiullah-Rahu/Llama3-RAG-Chatbot.git
+   git clone https://github.com/yashmangal112/Llama3-RAG-Chatbot.git
    ```
 2. Navigate to the project directory
    ```bash
@@ -49,21 +49,3 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 3. Make your changes and commit them.
 4. Push to the branch.
 5. Create a new pull request.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-
-Follow me at:
-<div id="badges">
-  <a href="https://www.linkedin.com/in/safiullahrahu/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://github.com/Safiullah-Rahu">
-    <img src="https://img.shields.io/badge/Github-red?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
-  </a>
-  <a href="https://www.twitter.com/safiullah_rahu">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-  
