@@ -1,0 +1,4 @@
+ipython==8.12.3
+llama_index==0.10.30
+st_social_media_links==0.1.1
+streamlit==1.33.0
